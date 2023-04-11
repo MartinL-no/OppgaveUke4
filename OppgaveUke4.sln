@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1706.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OppgaveUke4", "OppgaveUke4\OppgaveUke4.csproj", "{D28EA348-7026-4703-B5CA-5FB3ADD2EB6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OppgaveUke4.Test", "OppgaveUke4.Test\OppgaveUke4.Test.csproj", "{B0B6129A-666D-4F3D-9A01-12BAEDD77AC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D28EA348-7026-4703-B5CA-5FB3ADD2EB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D28EA348-7026-4703-B5CA-5FB3ADD2EB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D28EA348-7026-4703-B5CA-5FB3ADD2EB6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0B6129A-666D-4F3D-9A01-12BAEDD77AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B6129A-666D-4F3D-9A01-12BAEDD77AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B6129A-666D-4F3D-9A01-12BAEDD77AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B6129A-666D-4F3D-9A01-12BAEDD77AC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
